@@ -39,18 +39,21 @@
 	}
 
 	#header {
-	
-		padding: 20px;
-		margin: 20px;
+		
+		width: 960px;
+		padding: 35px;
+		margin-bottom: 20px;
 		background: #ebebeb;
 		text-align: center;
 	
 	}
 
 	#nav {
-	
-		padding: 20px;
-		margin: 20px;
+		
+		width: 960px;
+		padding: 35px;
+		margin-top: 20px;
+		margin-bottom: 20px;
 		background: #ebebeb;
 		text-align: center;
 	
@@ -60,12 +63,11 @@
 	
 		display: inline;
 		position: relative;
-		width: 52%;
+		width: 495px;
 		height: 250px;
 		float: left;
 		background: #ebebeb;
 		padding: 20px;
-		margin-left: 20px;
 		margin-right: 20px;
 		margin-bottom: 20px;
 		text-align: center;
@@ -83,13 +85,14 @@
 		margin-right: 15px;
 		margin-bottom: 15px;
 		padding-bottom: 20px;
+		padding-top: 18px;
 		text-align: center;
 
 	}
 
 	#heading {
 	
-		height: 40%;
+		height: 35%;
 		width: 90%;
 		float: left;
 		background: #ebebeb;
@@ -101,7 +104,7 @@
 
 	#paragraph {
 		
-		height: 40%;
+		height: 35%;
 		width: 90%;
 		float: left;
 		background: #ebebeb;
@@ -117,10 +120,10 @@
 		
 		display: inline;
 		height: 250px;
-		width: 40.75%;
+		width: 440px;
   		float: left;
+  		margin-left: 5px;
 		padding: 20px;
-		margin-left: 10px;
 		background: #ebebeb;
 		text-align: center;
 		
@@ -135,16 +138,11 @@
 	}
 
 	footer {
-    	
-    	/*position: fixed;
-    	left: 0;
-    	bottom: 0;*/
 
-  		clear: left;
-    	width: 927px;
-    	height: 60px;
-    	margin-left: 20px;
-    	margin-right: 20px;
+		clear: left;
+    	width: 960px;
+    	
+    	padding: 35px;
     	background-color: #ebebeb;
     	text-align: center;
 	
